@@ -1,1 +1,4 @@
 # PERSONALITY-PREDICTION-SYSTEM
+@AUTHOR: RAHUL SINGH
+
+![PPS_Team_Mars_1](https://user-images.githubusercontent.com/57325166/102699527-795cf080-426b-11eb-8122-c6948c6c2553.gif)
